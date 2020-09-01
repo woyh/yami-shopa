@@ -1,0 +1,59 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"scopeDataCheck": false,
+		"coverView": true,
+		"es6": true,
+		"postcss": true,
+		"compileHotReLoad": false,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"autoAudits": false,
+		"newFeature": true,
+		"uglifyFileName": false,
+		"uploadWithSourceMap": true,
+		"useIsolateContext": true,
+		"nodeModules": false,
+		"enhance": false,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false,
+		"showShadowRootInWxmlPanel": true,
+		"checkInvalidKey": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.6.4",
+	"appid": "wxdcabe2b8b439839e",
+	"projectname": "%E4%BA%9A%E7%B1%B3%E7%A7%91%E6%8A%80mall4j",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 23,
+			"list": []
+		}
+	}
+}
